@@ -22,7 +22,3 @@ This project demonstrates how to build and query a normalized database using a r
 1. Run the SQL script using any standard SQL environment (e.g., MySQL, PostgreSQL).
 2. Use the Java program to load additional CSV data if needed.
 
-## Authors
-
-Group 29 – COMP 3000 Database Systems  
-University of Manitoba
